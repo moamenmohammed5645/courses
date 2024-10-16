@@ -1,0 +1,170 @@
+{
+  "courses": [
+    {
+      "courseName": "Full Stack Web Development",
+      "coursePrice": 200,
+      "instructor": {
+        "instructorName": "Ahmed Khaled",
+        "instructorImage": "ahmed.jpg",
+        "specialization": "Web Development",
+        "qualifications": "B.Sc. in Computer Science, 10+ years experience"
+      },
+      "overview": {
+        "courseDescription": "A comprehensive course covering both front-end and back-end development.",
+        "prerequisites": "Basic knowledge of HTML, CSS, and JavaScript.",
+        "duration": "50 hours",
+        "totalStudents": 500,
+        "certificateIncluded": true
+      },
+      "curriculum": [
+        {
+          "part": "Part 1: Frontend Basics",
+          "lectures": [
+            {
+              "lectureTitle": "Introduction to HTML",
+              "lectureLink": "html-intro.mp4",
+              "lectureDuration": 45,
+              "isCompleted": true,
+              "lectureThumbnail": "checked.png"
+            },
+            {
+              "lectureTitle": "CSS Basics",
+              "lectureLink": "css-basics.mp4",
+              "lectureDuration": 60,
+              "isCompleted": false,
+              "lectureThumbnail": "unchecked.png"
+            }
+          ]
+        },
+        {
+          "part": "Part 2: Backend Development",
+          "lectures": [
+            {
+              "lectureTitle": "Introduction to Node.js",
+              "lectureLink": "nodejs-intro.mp4",
+              "lectureDuration": 90,
+              "isCompleted": false,
+              "lectureThumbnail": "unchecked.png"
+            }
+          ]
+        }
+      ],
+      "ratings": {
+        "overallRating": 4.5,
+        "totalReviews": 150
+      },
+      "reviews": [
+        {
+          "reviewerName": "Mona Hassan",
+          "reviewerImage": "mona.jpg",
+          "commentTime": "2024-10-10",
+          "commentText": "Great course! The instructor explains everything clearly."
+        },
+        {
+          "reviewerName": "Khaled Ali",
+          "reviewerImage": "khaled.jpg",
+          "commentTime": "2024-09-20",
+          "commentText": "Very helpful and detailed course."
+        }
+      ]
+    },
+    {
+      "courseName": "GIS & Spatial Analysis",
+      "coursePrice": 150,
+      "instructor": {
+        "instructorName": "Fatima Said",
+        "instructorImage": "fatima.jpg",
+        "specialization": "GIS Specialist",
+        "qualifications": "M.Sc. in Geographic Information Systems"
+      },
+      "overview": {
+        "courseDescription": "Learn the basics of GIS and spatial data analysis.",
+        "prerequisites": "None",
+        "duration": "40 hours",
+        "totalStudents": 300,
+        "certificateIncluded": true
+      },
+      "curriculum": [
+        {
+          "part": "Part 1: Introduction to GIS",
+          "lectures": [
+            {
+              "lectureTitle": "What is GIS?",
+              "lectureLink": "intro-gis.mp4",
+              "lectureDuration": 30,
+              "isCompleted": true,
+              "lectureThumbnail": "checked.png"
+            }
+          ]
+        }
+      ],
+      "ratings": {
+        "overallRating": 4.7,
+        "totalReviews": 120
+      },
+      "reviews": [
+        {
+          "reviewerName": "Ali Mohamed",
+          "reviewerImage": "ali.jpg",
+          "commentTime": "2024-10-05",
+          "commentText": "Very informative and well-structured."
+        }
+      ]
+    },
+    {
+      "courseName": "Advanced React",
+      "coursePrice": 180,
+      "instructor": {
+        "instructorName": "Sara Ahmed",
+        "instructorImage": "sara.jpg",
+        "specialization": "Frontend Developer",
+        "qualifications": "5+ years in React development"
+      },
+      "overview": {
+        "courseDescription": "Deep dive into React's advanced features and ecosystem.",
+        "prerequisites": "Experience with basic React and JavaScript.",
+        "duration": "60 hours",
+        "totalStudents": 200,
+        "certificateIncluded": true
+      },
+      "curriculum": [
+        {
+          "part": "Part 1: React Hooks",
+          "lectures": [
+            {
+              "lectureTitle": "Understanding useState",
+              "lectureLink": "usestate.mp4",
+              "lectureDuration": 50,
+              "isCompleted": true,
+              "lectureThumbnail": "checked.png"
+            }
+          ]
+        },
+        {
+          "part": "Part 2: Advanced Patterns",
+          "lectures": [
+            {
+              "lectureTitle": "Render Props Pattern",
+              "lectureLink": "render-props.mp4",
+              "lectureDuration": 75,
+              "isCompleted": false,
+              "lectureThumbnail": "unchecked.png"
+            }
+          ]
+        }
+      ],
+      "ratings": {
+        "overallRating": 4.8,
+        "totalReviews": 80
+      },
+      "reviews": [
+        {
+          "reviewerName": "Youssef Gamal",
+          "reviewerImage": "youssef.jpg",
+          "commentTime": "2024-09-29",
+          "commentText": "Challenging but worth it!"
+        }
+      ]
+    }
+  ]
+}
