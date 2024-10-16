@@ -1,6 +1,7 @@
 {
   "courses": [
     {
+      "id": "web",
       "courseName": "Full Stack Web Development",
       "coursePrice": 200,
       "instructor": {
@@ -69,6 +70,7 @@
       ]
     },
     {
+      "id": "gis",
       "courseName": "GIS & Spatial Analysis",
       "coursePrice": 150,
       "instructor": {
@@ -112,6 +114,7 @@
       ]
     },
     {
+      "id": "react",
       "courseName": "Advanced React",
       "coursePrice": 180,
       "instructor": {
